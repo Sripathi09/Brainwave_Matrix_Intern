@@ -1,0 +1,201 @@
+Date,Product,Category,Quantity,Unit Price,Revenue,Region,Payment Mode
+2025-02-06,Jacket,Apparel,8,2982,23856,Delhi,Credit Card
+2025-01-21,T-shirt,Apparel,6,33961,203766,Hyderabad,Debit Card
+2025-02-25,Jeans,Apparel,1,5105,5105,Mumbai,Credit Card
+2025-02-19,Bed,Furniture,5,4984,24920,Hyderabad,Credit Card
+2025-01-24,Chair,Furniture,1,16882,16882,Hyderabad,Credit Card
+2025-02-21,Table,Furniture,7,34260,239820,Hyderabad,Cash
+2025-01-28,Mobile Phone,Electronics,5,3976,19880,Bangalore,Debit Card
+2025-01-16,Cupboard,Furniture,8,37706,301648,Pune,Credit Card
+2025-02-27,Mobile Phone,Electronics,7,9624,67368,Chennai,Debit Card
+2025-01-01,Mixer,Home Appliances,6,27029,162174,Chennai,UPI
+2025-02-23,Cupboard,Furniture,9,48052,432468,Pune,Debit Card
+2025-02-10,Bed,Furniture,6,7931,47586,Bangalore,Credit Card
+2025-02-19,Bed,Furniture,7,30022,210154,Delhi,Cash
+2025-01-22,T-shirt,Apparel,8,27820,222560,Mumbai,UPI
+2025-02-07,Jeans,Apparel,9,36601,329409,Chennai,Debit Card
+2025-02-22,Cupboard,Furniture,3,22728,68184,Pune,Cash
+2025-02-06,Jeans,Apparel,7,16996,118972,Hyderabad,UPI
+2025-01-10,Mixer,Home Appliances,10,13850,138500,Delhi,Debit Card
+2025-02-11,Refrigerator,Home Appliances,5,3582,17910,Bangalore,UPI
+2025-01-13,Bed,Furniture,4,49903,199612,Bangalore,Cash
+2025-03-01,T-shirt,Apparel,1,16537,16537,Pune,Debit Card
+2025-02-26,Tablet,Electronics,1,48698,48698,Pune,Debit Card
+2025-01-05,Bed,Furniture,6,17917,107502,Bangalore,Cash
+2025-02-22,T-shirt,Apparel,10,49132,491320,Hyderabad,UPI
+2025-01-12,Refrigerator,Home Appliances,7,40514,283598,Bangalore,Credit Card
+2025-01-13,Table,Furniture,1,42777,42777,Pune,Cash
+2025-01-02,Chair,Furniture,8,25541,204328,Bangalore,Cash
+2025-01-08,Table,Furniture,7,12068,84476,Kolkata,Debit Card
+2025-01-01,Headphones,Electronics,7,45170,316190,Mumbai,Debit Card
+2025-01-05,Coffee Maker,Home Appliances,7,36478,255346,Pune,Cash
+2025-02-19,Refrigerator,Home Appliances,7,1862,13034,Hyderabad,Cash
+2025-02-20,Table,Furniture,4,6460,25840,Pune,Debit Card
+2025-02-27,Shirt,Apparel,6,20753,124518,Kolkata,Credit Card
+2025-02-23,Laptop,Electronics,9,40655,365895,Chennai,Debit Card
+2025-02-13,Headphones,Electronics,5,35303,176515,Chennai,UPI
+2025-02-14,Refrigerator,Home Appliances,4,9485,37940,Kolkata,Cash
+2025-01-29,Tablet,Electronics,1,22349,22349,Pune,Credit Card
+2025-01-15,T-shirt,Apparel,9,17243,155187,Mumbai,Credit Card
+2025-02-11,Coffee Maker,Home Appliances,7,6115,42805,Delhi,UPI
+2025-02-03,Jeans,Apparel,6,25923,155538,Hyderabad,Cash
+2025-01-15,Mobile Phone,Electronics,1,9284,9284,Mumbai,Debit Card
+2025-01-30,Tablet,Electronics,4,25284,101136,Delhi,Debit Card
+2025-02-11,Bed,Furniture,8,45077,360616,Delhi,Debit Card
+2025-02-12,Laptop,Electronics,7,22044,154308,Hyderabad,Debit Card
+2025-01-19,Smartwatch,Electronics,1,9907,9907,Kolkata,Cash
+2025-02-18,Sofa,Furniture,5,45677,228385,Chennai,Cash
+2025-01-21,T-shirt,Apparel,8,10799,86392,Pune,Debit Card
+2025-01-17,Washing Machine,Home Appliances,6,31448,188688,Delhi,Debit Card
+2025-01-23,Jeans,Apparel,1,41219,41219,Chennai,Debit Card
+2025-02-24,Mobile Phone,Electronics,1,32800,32800,Hyderabad,UPI
+2025-02-14,Laptop,Electronics,6,18077,108462,Mumbai,Cash
+2025-02-26,Shirt,Apparel,6,19133,114798,Chennai,Cash
+2025-01-13,Shoes,Apparel,7,47240,330680,Hyderabad,Cash
+2025-02-25,Sofa,Furniture,10,47998,479980,Delhi,Cash
+2025-01-01,Mixer,Home Appliances,8,29461,235688,Hyderabad,Debit Card
+2025-02-02,Mixer,Home Appliances,2,11841,23682,Pune,UPI
+2025-02-07,Table,Furniture,4,7717,30868,Kolkata,Credit Card
+2025-02-01,Coffee Maker,Home Appliances,4,17211,68844,Chennai,Debit Card
+2025-01-01,Laptop,Electronics,3,48368,145104,Chennai,Credit Card
+2025-01-15,Washing Machine,Home Appliances,2,13072,26144,Mumbai,Debit Card
+2025-01-09,Washing Machine,Home Appliances,5,11391,56955,Pune,Credit Card
+2025-02-14,Coffee Maker,Home Appliances,6,21375,128250,Mumbai,Debit Card
+2025-01-12,Tablet,Electronics,10,8689,86890,Chennai,Credit Card
+2025-01-25,Smartwatch,Electronics,10,9169,91690,Delhi,Cash
+2025-01-22,Shirt,Apparel,7,42824,299768,Bangalore,UPI
+2025-02-21,Jeans,Apparel,3,11963,35889,Mumbai,Cash
+2025-01-28,Mixer,Home Appliances,9,6372,57348,Pune,Debit Card
+2025-01-10,Shirt,Apparel,7,17959,125713,Mumbai,Credit Card
+2025-01-08,Coffee Maker,Home Appliances,8,39847,318776,Delhi,UPI
+2025-02-24,Jeans,Apparel,1,39976,39976,Hyderabad,Debit Card
+2025-01-24,T-shirt,Apparel,1,29394,29394,Pune,Debit Card
+2025-01-05,Table,Furniture,9,23677,213093,Hyderabad,Debit Card
+2025-02-24,Cupboard,Furniture,5,11076,55380,Delhi,Credit Card
+2025-01-19,Tablet,Electronics,6,35791,214746,Hyderabad,UPI
+2025-01-26,Mobile Phone,Electronics,9,11787,106083,Delhi,UPI
+2025-01-08,Table,Furniture,6,49807,298842,Bangalore,Debit Card
+2025-02-09,Cupboard,Furniture,6,35500,213000,Kolkata,Debit Card
+2025-01-17,Bed,Furniture,6,47221,283326,Kolkata,Cash
+2025-02-24,Headphones,Electronics,5,4762,23810,Hyderabad,Credit Card
+2025-01-01,Washing Machine,Home Appliances,6,9055,54330,Bangalore,Cash
+2025-02-15,Washing Machine,Home Appliances,10,561,5610,Kolkata,UPI
+2025-01-15,Headphones,Electronics,10,7653,76530,Chennai,Cash
+2025-01-11,Microwave,Home Appliances,10,6811,68110,Delhi,Credit Card
+2025-01-18,Refrigerator,Home Appliances,5,579,2895,Kolkata,Cash
+2025-02-24,Jacket,Apparel,2,39455,78910,Pune,UPI
+2025-01-04,Sofa,Furniture,3,9729,29187,Pune,UPI
+2025-01-28,Jacket,Apparel,2,30128,60256,Delhi,Cash
+2025-02-28,Headphones,Electronics,4,1070,4280,Bangalore,Credit Card
+2025-02-18,Cupboard,Furniture,1,26609,26609,Pune,Credit Card
+2025-01-21,Shoes,Apparel,2,28045,56090,Kolkata,Debit Card
+2025-01-01,Tablet,Electronics,5,10722,53610,Hyderabad,Debit Card
+2025-01-03,Microwave,Home Appliances,7,14111,98777,Mumbai,Credit Card
+2025-01-31,Mobile Phone,Electronics,3,28213,84639,Delhi,Cash
+2025-01-05,T-shirt,Apparel,2,28448,56896,Chennai,Debit Card
+2025-02-20,Mobile Phone,Electronics,5,41720,208600,Delhi,Debit Card
+2025-01-23,Bed,Furniture,6,28067,168402,Kolkata,UPI
+2025-02-21,Microwave,Home Appliances,10,14309,143090,Mumbai,UPI
+2025-02-08,Refrigerator,Home Appliances,9,47730,429570,Bangalore,Cash
+2025-01-24,Refrigerator,Home Appliances,5,11538,57690,Hyderabad,Debit Card
+2025-01-16,Mobile Phone,Electronics,1,46449,46449,Mumbai,Debit Card
+2025-02-23,Sofa,Furniture,3,10697,32091,Mumbai,Debit Card
+2025-01-03,Cupboard,Furniture,2,1315,2630,Delhi,Cash
+2025-03-01,Jacket,Apparel,9,34779,313011,Chennai,Debit Card
+2025-01-15,Tablet,Electronics,3,25922,77766,Delhi,Cash
+2025-01-22,Table,Furniture,5,41834,209170,Bangalore,Debit Card
+2025-01-13,Washing Machine,Home Appliances,8,23331,186648,Delhi,Debit Card
+2025-02-20,Cupboard,Furniture,6,12146,72876,Hyderabad,UPI
+2025-02-22,T-shirt,Apparel,5,22377,111885,Mumbai,Debit Card
+2025-02-10,Laptop,Electronics,7,43038,301266,Mumbai,Credit Card
+2025-01-11,Shirt,Apparel,9,11202,100818,Pune,Cash
+2025-01-29,Smartwatch,Electronics,4,22912,91648,Chennai,Debit Card
+2025-01-24,Washing Machine,Home Appliances,7,7994,55958,Delhi,UPI
+2025-02-13,Mobile Phone,Electronics,10,15249,152490,Mumbai,UPI
+2025-01-03,Shirt,Apparel,8,48180,385440,Hyderabad,Cash
+2025-01-20,Jeans,Apparel,2,19633,39266,Pune,Credit Card
+2025-02-02,Mobile Phone,Electronics,6,48355,290130,Chennai,UPI
+2025-01-24,Laptop,Electronics,5,35222,176110,Bangalore,Cash
+2025-01-27,Washing Machine,Home Appliances,7,22842,159894,Bangalore,UPI
+2025-01-18,Shoes,Apparel,9,40484,364356,Hyderabad,Cash
+2025-01-31,Bed,Furniture,10,20228,202280,Mumbai,UPI
+2025-01-25,Headphones,Electronics,10,34172,341720,Bangalore,Credit Card
+2025-02-25,Jeans,Apparel,9,9197,82773,Pune,Credit Card
+2025-01-15,Cupboard,Furniture,1,28149,28149,Chennai,Debit Card
+2025-01-12,Mixer,Home Appliances,10,34235,342350,Delhi,Debit Card
+2025-01-26,Tablet,Electronics,8,21657,173256,Bangalore,Debit Card
+2025-01-22,Table,Furniture,3,22736,68208,Hyderabad,Cash
+2025-02-13,Chair,Furniture,1,5793,5793,Delhi,Cash
+2025-02-26,Tablet,Electronics,3,12848,38544,Bangalore,Credit Card
+2025-01-06,Refrigerator,Home Appliances,10,4421,44210,Bangalore,UPI
+2025-02-27,Mobile Phone,Electronics,1,23371,23371,Pune,Debit Card
+2025-02-27,Jacket,Apparel,1,9602,9602,Bangalore,UPI
+2025-01-21,Coffee Maker,Home Appliances,4,4813,19252,Bangalore,Credit Card
+2025-01-14,Smartwatch,Electronics,6,29494,176964,Delhi,UPI
+2025-01-21,Coffee Maker,Home Appliances,3,24557,73671,Bangalore,Debit Card
+2025-02-15,Cupboard,Furniture,5,26372,131860,Hyderabad,Cash
+2025-02-12,Refrigerator,Home Appliances,7,31090,217630,Delhi,Cash
+2025-02-23,Coffee Maker,Home Appliances,5,46274,231370,Kolkata,UPI
+2025-01-15,Refrigerator,Home Appliances,1,12037,12037,Mumbai,Credit Card
+2025-02-26,Microwave,Home Appliances,1,9232,9232,Chennai,UPI
+2025-02-04,Coffee Maker,Home Appliances,7,6718,47026,Pune,UPI
+2025-01-03,Jacket,Apparel,7,13231,92617,Delhi,UPI
+2025-02-04,Coffee Maker,Home Appliances,8,32839,262712,Kolkata,Debit Card
+2025-02-16,Refrigerator,Home Appliances,9,770,6930,Bangalore,Credit Card
+2025-02-24,Headphones,Electronics,4,43149,172596,Delhi,Debit Card
+2025-01-22,Headphones,Electronics,9,48141,433269,Pune,Credit Card
+2025-02-22,Refrigerator,Home Appliances,7,26999,188993,Hyderabad,Credit Card
+2025-01-07,Table,Furniture,2,27132,54264,Delhi,Debit Card
+2025-02-16,Jeans,Apparel,3,9883,29649,Bangalore,Cash
+2025-01-05,Tablet,Electronics,2,12401,24802,Chennai,Credit Card
+2025-01-15,Coffee Maker,Home Appliances,7,39998,279986,Bangalore,Debit Card
+2025-01-09,Sofa,Furniture,5,29184,145920,Chennai,Debit Card
+2025-02-04,Laptop,Electronics,10,17885,178850,Mumbai,Cash
+2025-01-11,T-shirt,Apparel,3,35115,105345,Chennai,Cash
+2025-02-01,Jacket,Apparel,7,30480,213360,Delhi,Debit Card
+2025-02-13,Headphones,Electronics,5,779,3895,Bangalore,UPI
+2025-02-24,Laptop,Electronics,4,42675,170700,Hyderabad,Credit Card
+2025-02-19,Shirt,Apparel,4,43528,174112,Mumbai,Debit Card
+2025-02-02,Chair,Furniture,8,24136,193088,Delhi,Cash
+2025-01-18,Jacket,Apparel,1,48035,48035,Kolkata,Credit Card
+2025-01-25,T-shirt,Apparel,7,47045,329315,Pune,Debit Card
+2025-02-02,Washing Machine,Home Appliances,5,30627,153135,Bangalore,Credit Card
+2025-02-14,Refrigerator,Home Appliances,5,33259,166295,Delhi,UPI
+2025-01-08,T-shirt,Apparel,4,45836,183344,Chennai,UPI
+2025-02-05,Shoes,Apparel,6,13911,83466,Bangalore,Credit Card
+2025-01-20,Jacket,Apparel,4,17378,69512,Pune,Credit Card
+2025-02-27,Smartwatch,Electronics,1,17029,17029,Hyderabad,UPI
+2025-02-12,Washing Machine,Home Appliances,5,43935,219675,Bangalore,UPI
+2025-02-11,Table,Furniture,2,30453,60906,Kolkata,UPI
+2025-01-22,Mixer,Home Appliances,4,17094,68376,Kolkata,Cash
+2025-02-11,Smartwatch,Electronics,4,28161,112644,Chennai,UPI
+2025-02-09,Headphones,Electronics,6,18405,110430,Kolkata,UPI
+2025-01-08,Headphones,Electronics,10,40716,407160,Chennai,Debit Card
+2025-01-07,Mixer,Home Appliances,4,3455,13820,Pune,Cash
+2025-01-17,Shoes,Apparel,7,31016,217112,Hyderabad,UPI
+2025-01-31,Tablet,Electronics,3,805,2415,Mumbai,Debit Card
+2025-02-24,Refrigerator,Home Appliances,4,35118,140472,Delhi,Cash
+2025-01-26,Jacket,Apparel,10,23530,235300,Pune,Credit Card
+2025-01-20,Mixer,Home Appliances,1,48485,48485,Delhi,Cash
+2025-02-01,Coffee Maker,Home Appliances,4,3030,12120,Delhi,UPI
+2025-02-11,Shirt,Apparel,2,37610,75220,Mumbai,UPI
+2025-02-20,Jeans,Apparel,8,10507,84056,Pune,Debit Card
+2025-01-07,Mixer,Home Appliances,4,19178,76712,Chennai,Credit Card
+2025-02-28,Shirt,Apparel,1,41968,41968,Mumbai,Debit Card
+2025-01-22,Chair,Furniture,5,35602,178010,Hyderabad,Debit Card
+2025-01-13,Refrigerator,Home Appliances,3,832,2496,Bangalore,Cash
+2025-01-27,T-shirt,Apparel,3,48502,145506,Chennai,Credit Card
+2025-01-21,Cupboard,Furniture,4,18660,74640,Kolkata,Debit Card
+2025-02-17,Chair,Furniture,6,36935,221610,Pune,UPI
+2025-01-11,Shoes,Apparel,5,15622,78110,Bangalore,Cash
+2025-01-22,Mixer,Home Appliances,2,44425,88850,Mumbai,Credit Card
+2025-01-04,Shirt,Apparel,7,49618,347326,Mumbai,Cash
+2025-01-16,Shirt,Apparel,2,6859,13718,Bangalore,Debit Card
+2025-01-23,Bed,Furniture,1,5665,5665,Delhi,UPI
+2025-01-17,Bed,Furniture,2,2331,4662,Chennai,Credit Card
+2025-02-12,Bed,Furniture,8,44561,356488,Chennai,Cash
+2025-01-12,Shirt,Apparel,8,14542,116336,Mumbai,UPI
+2025-01-09,Jeans,Apparel,9,9739,87651,Hyderabad,Credit Card
+2025-02-05,Jeans,Apparel,3,17044,51132,Chennai,Credit Card
+2025-02-16,Chair,Furniture,6,3841,23046,Bangalore,Cash
+2025-01-01,Microwave,Home Appliances,4,11701,46804,Pune,Credit Card
