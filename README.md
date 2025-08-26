@@ -5,7 +5,7 @@ This project is part of my internship at **Brainwave Matrix**.
 It focuses on analyzing sales data using Python to extract insights, visualize patterns, and support data-driven decisions.  
 
 ## 📂 Files in Repository  
-- **`sales_analysis.ipynb`** → Jupyter Notebook with full analysis and visualizations.  
+- **`sales_analysis.ipynb`** → Google colab Notebook with full analysis and visualizations.  
 - **`sales_data_big.csv`** → Dataset used for the analysis.  
 
 ## 🎯 Objectives  
